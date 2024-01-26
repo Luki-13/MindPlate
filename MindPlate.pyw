@@ -1,3 +1,5 @@
+#property of lucas sant'ana ferrarese, born in 22/02/2010, brazil
+
 import tkinter as tk
 import random
 
