@@ -53,6 +53,7 @@ def mostrar_resposta(janela_anterior):
     global mostrar_resposta_flag
     mostrar_resposta_flag = True
     resposta_window = tk.Toplevel(root)
+    
     resposta_window.title("Resposta")
     resposta_window.geometry("314x160")  # Aumentando a altura para acomodar o botão "Quit"
     resposta_window.config(bg="#1c1c33")
